@@ -2,7 +2,7 @@
 
 Student name: Mike Doan - mdoan4 - 002551968
 
-Analysing the UCI ML Wine recognition datasets using basic machine learning algorithmns (perceptron, decision tree, logistic regression) through use of the sklearn library
+Analysing the UCI ML Wine recognition datasets using basic machine learning algorithms (perceptron, decision tree, logistic regression) through use of the sklearn library
 
 https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data 
 
